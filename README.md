@@ -1,1 +1,2 @@
 这是一个用于学习git的示例项目。
+学习一下issues和pull request的用法
